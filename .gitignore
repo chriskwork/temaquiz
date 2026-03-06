@@ -1,8 +1,8 @@
 # Frontend
-frontend/node_modules/
-frontend/.env
-frontend/.env.local
-frontend/dist/
+app/node_modules/
+app/.env
+app/.env.local
+app/dist/
 
 # Backend
 backend/vendor/
